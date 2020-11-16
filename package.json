@@ -1,6 +1,6 @@
 {
-  "name": "restyped-axios",
-  "version": "2.0.0",
+  "name": "@ianmartorell/restyped-axios",
+  "version": "2.0.1",
   "description": "Axios typings for consuming RESTyped APIs",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rawrmaan/restyped-axios.git"
+    "url": "git+https://github.com/ianmartorell/restyped-axios.git"
   },
-  "author": "Arman Dezfuli-Arjomandi",
+  "author": "Ian Martorell",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rawrmaan/restyped-axios/issues"
+    "url": "https://github.com/ianmartorell/restyped-axios/issues"
   },
-  "homepage": "https://github.com/rawrmaan/restyped-axios#readme",
+  "homepage": "https://github.com/ianmartorell/restyped-axios#readme",
   "dependencies": {
     "axios": "^0.18.1",
     "restyped": "*"
